@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopifyOrder</string>
+    <string name="keyboard_sold">Aerodynamic Cotton Keyboards Sold</string>
+    <string name="totalorder">Total Revenue</string>
+</resources>
